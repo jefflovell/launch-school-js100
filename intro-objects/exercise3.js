@@ -13,7 +13,7 @@ for (let i = 0; i < myArray.length; i += 1) {
 */
 
 let myArray = {
-  length: 6
+  length: 6,
   0: 'hello!',
   1: 'I',
   2: 'am',
