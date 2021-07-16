@@ -29,7 +29,7 @@ function checkVals1(arr, num){
 
 /*
 
-Thousand ways to skin a cat, I suppose.  I didn't bother to look at other array methods.  I guess the purpose of the question was to practice looking up documentation. 
+Thousand ways to skin a cat, I suppose.  I didn't bother to look at other array methods.  I guess the purpose of the question was to practice looking up documentation.
 
 > numbers1.includes(3);
 = true
