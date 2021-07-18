@@ -30,3 +30,4 @@ An error occurred in the exercise2.js program on line 4 of the program; a ^ poin
 More specifically, line 6 in the output tells you that a ReferenceError exception occurred and that the name greeting isn't defined. Line 7 repeats some earlier information: JavaScript detected the error at column 15 of line 4 of the program, but it also tells you that the code is in the hello function. Line 8 tells you that hello was called from line 13 of the program in an anonymous function, namely the global-level of the program.
 
 The rest of the output comes from running the code in node and probably isn't useful to you as an application programmer.
+*/
